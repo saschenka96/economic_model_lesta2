@@ -1,0 +1,3 @@
+enum34==1.1.10
+peewee==3.17.1
+selectors2~=2.0.2
